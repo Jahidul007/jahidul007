@@ -1,4 +1,7 @@
 ### Hi there 👋
+This is [Jahidul Islam](http://jahidul007.github.io/)
+
+A passionate learner. Love to play with data.
 
 <!--
 **Jahidul007/jahidul007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
