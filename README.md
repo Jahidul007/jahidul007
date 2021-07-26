@@ -11,7 +11,7 @@ A passionate learner. Love to play with data.
     </td>
     <td>
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidul007&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/jahidul007)        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidul007&layout=compact&theme=tokyonight)](https://github.com/jahidul007)        
     </td>
     </tr> 
 
