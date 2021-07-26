@@ -7,11 +7,11 @@ A passionate learner. Love to play with data.
   <tr>
     <td>
       
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jahidul007&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)      
+[![Jahidul's github stats](https://github-readme-stats.vercel.app/api?username=jahidul007&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/jahidul007)      
     </td>
     <td>
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidul007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidul007&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/jahidul007)        
     </td>
     </tr> 
 
