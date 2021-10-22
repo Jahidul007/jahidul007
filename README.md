@@ -2,7 +2,7 @@
 This is [Jahidul Islam](http://jahidul007.github.io/)
 
 A passionate learner. Love to play with data.
-
+<!--
 <table cellspacing="0" cellpadding="0" style="border: none">
   <tr>
     <td>
@@ -15,7 +15,7 @@ A passionate learner. Love to play with data.
     </td>
     </tr> 
 
-<!--
+
 **Jahidul007/jahidul007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
